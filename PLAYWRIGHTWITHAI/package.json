@@ -1,0 +1,11 @@
+{
+  "name": "playwright-with-ai",
+  "version": "1.0.0",
+  "description": "A project demonstrating arithmetic operations in JavaScript using Playwright.",
+  "main": "Chapter04_Operators/Arthimatic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}

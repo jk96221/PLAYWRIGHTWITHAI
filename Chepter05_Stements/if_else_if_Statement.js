@@ -11,14 +11,19 @@
 //    // code to be executed if condition1 and condition2 are false
 //}
 //Example:
-let age1 = 20;
-if (age1 >= 18) {
-    console.log("You are eligible for voting");
+let score=90;
+if(score>=90){
+    console.log("Grade A");
 }
-else if (age1 >= 60) {
-    console.log("You are eligible for senior citizen discount");
+else if(score>=80){
+    console.log("Grade B");
 }
-else {
-    console.log("You are not eligible for voting");
+else if(score>=70){
+    console.log("Grade C");
 }
-
+else if(score>=60){
+    console.log("Grade D");
+}
+else{
+    console.log("Grade F");
+}
