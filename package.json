@@ -1,0 +1,24 @@
+{
+  "name": "playwrightwithai",
+  "version": "1.0.0",
+  "description": "Collection of Playwright examples, JavaScript fundamentals, and exercises used for learning and demos.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jk96221/PLAYWRIGHTWITHAI.git"
+  },
+  "keywords": [],
+  "author": "Pramod Dutta",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jk96221/PLAYWRIGHTWITHAI/issues"
+  },
+  "homepage": "https://github.com/jk96221/PLAYWRIGHTWITHAI#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3",
+    "playwright": "^1.58.2"
+  }
+}

@@ -43,3 +43,8 @@ reports/
 # Ignore local env and secrets
 secrets.json
 
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
